@@ -1,0 +1,59 @@
+# Linkin Park – Fighting Myself
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:29.00] Now, sometimes these thoughts in my head speak so loud
+[00:32.55] Every little thing that I think about
+[00:34.34] Just builds on top of the pain and doubt
+[00:35.95] Even though I wanna just let it out
+[00:37.87] I try to act like I don't mind it, try to keep my mouth so quiet
+[00:41.27] But sittin' there in my silence just seems to amplify it
+[00:44.54] When I thought that keepin' this inside would make it better
+[00:48.17] I never thought that I would end up ruining it forever
+[00:51.37] But every time I think I got everything put back together
+[00:55.08] I end up making more regrets, making more regrets
+[01:19.58] 
+[00:58.03] Falling from grace, I watch it all come apart
+[01:01.73] Knowing I could've changed it all from the start
+[01:05.28] Fighting myself, I always lose
+[01:08.57] Fighting myself, I always lose
+[01:23.57] 
+[01:12.23] I didn't want you to think I'm worn out so easily
+[01:15.07] I wish I'd held it in so you never knew what built up inside of me
+[01:18.72] Now I don't know how it overflows, spilled out unwillingly
+[01:21.86] But now everything that I learned to hate came out for you to see
+[01:25.10] I don't want you to promise you can change everything and make it better
+[01:29.27] 'Cause you can bet I'm gonna end up ruining it forever
+[01:32.83] And every time you think you got everything put back together
+[01:35.96] I end up making more regrets, making more regrets
+[02:00.46] 
+[01:39.16] Falling from grace, I watch it all come apart
+[01:42.71] Knowing I could've changed it all from the start
+[01:46.39] Fighting myself, I always lose
+[01:49.73] Fighting myself, I always lose
+[02:04.73] 
+[01:53.02] Falling from grace, I watch it all come apart
+[01:56.57] Knowing I could've changed it all from the start
+[02:00.02] Fighting myself, I always lose
+[02:03.53] Fighting myself, I always lose
+[02:18.53] 
+[02:20.34] I can't run with this weight on my back
+[02:23.93] I can't see 'cause I'm focused on the past
+[02:27.49] I can't breathe, I need to break free
+[02:30.39] From the anger that is constantly inside me
+[02:51.89] 
+[02:34.59] I can't run with this weight on my back
+[02:37.86] I can't see 'cause I'm focused on the past
+[02:40.96] I can't breathe, I need to break free
+[02:44.13] From the anger that is constantly inside of me
+[03:07.13] 
+[02:48.14] Falling from grace, I watch it all come apart
+[02:51.54] Knowing I could've changed it all from the start
+[02:55.02] I can't breathe, I need to break free
+[02:57.87] From the anger that is constantly inside of me
+[03:01.38] Falling from grace, I watch it all come apart
+[03:05.10] Knowing I could've changed it all from the start
+[03:08.74] I can't breathe, I need to break free
+[03:11.60] From the anger that is constantly inside of me
+```
