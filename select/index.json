@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fighting Myself",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-19T11:21:01.372674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Descendents",
+      "has_synced": true,
+      "path": "select/01_Fighting_Myself_Descendents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Fighting_Myself_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Fighting_Myself_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Linkin Park - Fighting Myself (Official Audio)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Linkin_Park_-_Fighting_Myself_(Official_Audio)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fighting Myself [-]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Fighting_Myself_[-]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fighting Myself",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Fighting_Myself_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fighting Myself",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_Fighting_Myself_LINKIN_PARK.txt"
+    }
+  ]
+}
